@@ -72,7 +72,7 @@ a:hover {
 }
 
 #first-skill-row {
-  width: 50%;
+  width: 60%;
   margin: 100px auto 200px auto;
   text-align: justify;
   line-height: 2;
@@ -83,6 +83,10 @@ a:hover {
   color: #272727;
   font-size: 625%;
   margin: 75px auto 0 auto;
+}
+
+.profile {
+  padding: 100px 0 0 0;
 }
 
 .hello {
@@ -101,8 +105,8 @@ a:hover {
 }
 
 .skill-row {
-  width: 50%;
-  margin: 200px auto;
+  width: 60%;
+  margin: 250px auto;
   text-align: justify;
   line-height: 2;
 }
