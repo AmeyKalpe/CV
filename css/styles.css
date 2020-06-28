@@ -143,7 +143,7 @@ a:hover {
 .top-cloud {
   position: absolute;
   top: 100px;
-  right: 300px;
+  right: 200px;
 }
 
 .mountain {
@@ -152,7 +152,7 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 200px;
 }
 
 .contact-me {
